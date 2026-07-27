@@ -1,0 +1,273 @@
+Kolawole Sunday Olanrewaju
+Nationality: Nigerian (Nigeria)
+Gender: Male
+
+CONTACT
+
+Thomas Adewumi University,
+Oko
+251103 Oko, Nigeria (Work)
+
+ kolawoleolanrewaju248@gmail.
+com
+
+ (+234) 8156437937
+
+www.tau.edu.ng
+
+ABOUT ME
+I am a highly motivated, self-taught artificial intelligence enthusiast with strong
+interests in machine learning, large language models, generative AI, Agentic AI, and
+embedded systems. Through independent study and hands-on projects, I have
+gained experience in image-to-image generation using diffusion models, language
+translation systems using transformer models, AI agent development, and
+Arduino-based robotics. My exploration of Agentic AI has strengthened my
+understanding of building intelligent systems capable of reasoning, decisionmaking, tool integration, and autonomous task execution using modern AI
+frameworks. My interest in robotics led me to complete an Arduino and Robotics
+course, where I acquired foundational skills in embedded systems, automation,
+and hardware–software integration. I am driven to combine intelligent algorithms,
+autonomous AI systems, and real-world hardware to develop practical solutions,
+and I continuously seek opportunities to deepen my technical expertise while
+contributing to impactful innovations in AI and robotics.
+
+WORK EXPERIENCE
+Thomas Adewumi University, Oko , Kwara State. Nigeria. Oko, Nigeria
+Business or Sector Information and communication
+
+Department I.C.T
+
+Email kolawole.olanrewaju@tau.edu.ng
+
+Programmer I
+17/09/2021 – Current
+Main activities and responsibilities:
+• Led the planning, development, and implementation of ICT strategies in
+alignment with university objectives
+• Managed ICT infrastructure, systems, and support services to ensure
+optimal performance, security, and reliability
+• Supervised ICT teams, coordinated projects, and ensured timely delivery
+of technology solutions
+• Advised senior management on emerging technology trends and
+innovative opportunities
+• Ensured compliance with ICT policies, procedures, and relevant
+regulatory requirements
+Projects accomplished:
+Student Portal (Laravel, PHP, MySQL):
+• Designed and implemented a web-based student portal supporting core
+academic and administrative services
+• Developed backend logic, user authentication, and database integration
+using Laravel
+• Contributed as a key team member to the deployment of the portal,
+central to academic and administrative operations
+University Library Website:
+• Developed a web platform for library information access and digital
+presence
+• Implemented structured content management and user-friendly
+interfaces
+Network and Infrastructure Projects:
+• Configured MikroTik interfaces for server and VLAN routing, and
+outdoor fibre for network connectivity
+• Set up switches and NanoStation radios for point-to-point internet
+access, optimizing university-wide network performance
+Thomas Adewumi University, Oko Oko, Nigeria
+Business or Sector Electricity, gas, steam and air conditioning supply
+Department Electrical
+
+Domestic electrician
+04/05/2020 – 13/09/2021
+• Executed electrical wiring of hostel building infrastructure in compliance with standard electrical codes.
+• Installed and terminated branch circuits from distribution boards (DBs) to supply individual rooms.
+• Mounted and wired lighting points, ceiling fans, and single-phase wall socket outlets, including proper
+earthing and load distribution.
+National Youth Service Corps Ekiti, Nigeria
+Business or Sector Education
+
+Department Science
+
+National Service
+23/10/2018 – 22/10/2019
+• Taught Physics and Mathematics at Holy Trinity Anglican College, Aiesgba, Ekiti State.
+• Delivered lessons covering fundamental physics principles and core mathematical concepts.
+• Prepared lesson plans, assessments, and examinations aligned with the secondary school curriculum.
+• Assist in broadcasting relevant information amongst corps members been the public relation officer in
+respect to my community Development service(CDS), I also partook in the 2019 general elections, I
+functioned as the presiding officer of my polling unit.
+• I also partook in the sensitization of aisegba community students on implications of drug abuse and
+examination malpractice.
+
+EDUCATION AND TRAINING
+11/08/2014 – 20/09/2018 Ilorin, Nigeria
+
+Bachelor of Science in Physics University of Ilorin, Ilorin
+Field of study Physics , Mathematics , Statistics
+
+Level in EQF EQF level 6
+
+03/09/2007 – 21/09/2013 Egbe, Nigeria
+
+West African Examination Council Certificate Heritage College Egbe, Kogi State. Nigeria.
+Field of study Inter-disciplinary programmes and qualifications involving natural sciences, mathematics and statistics
+Level in EQF EQF level 4
+
+04/09/2000 – 20/09/2007 Oko, Nigeria
+
+Primary School Certificate Prime Time Nursery and Primary School, Oko.
+Level in EQF EQF level 2
+
+LANGUAGE SKILLS
+MOTHER TONGUE(S): Yoruba
+Other language(s):
+English
+Listening B2
+
+Spoken production B2
+
+Reading B2
+
+Spoken interaction B2
+
+Writing B2
+Levels: A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proficient user
+
+SKILLS
+Python and programming Data Science: Python (requests, selenium, BeautifulSoup, pandas, matplotlib, seaborn,
+sklearn) Libraries (Numpy, Pandas, Dash, Matplotlib, Sklearn, Keras, Pythorch, Tensorflow) PHP Laravel
+framework (begginer)
+
+CERTIFICATIONS
+Huawei, 18/07/2023
+
+Huawei Artificial Intelligence
+• Acquired core AI concepts including machine learning, deep learning, and neural networks.
+• Gained hands-on experience with AI frameworks such as PyTorch and MindSpore for model training and
+deployment.
+• Learned to process and analyze large datasets to build intelligent solutions.
+• Developed the ability to design and apply AI models for real-world tasks like image recognition, NLP, and
+intelligent automation.
+
+Coursera, 27/10/2025
+
+IBM AI Developer Certificate
+• Completed foundational courses in Software Engineering, Artificial Intelligence, and Generative AI, covering
+core concepts and real-world applications.
+• Gained practical skills in Python, HTML, CSS, JavaScript, and Flask, enabling development of AI-powered and
+web-based applications.
+• Learned Generative AI techniques, including prompt engineering and building applications that integrate AI
+models for practical solutions.
+• Applied knowledge through hands-on projects in AI application development and generative AI-powered tools.
+
+Skillet Academy, 19/12/2025
+
+Skillet Academy Arduino Masterclass: AI, Robotics & ChatGPT — Udemy
+• Built and programmed circuits using Arduino UNO and ESP32, integrating sensors, motors, and other
+components.
+• Wrote Arduino code from scratch, mastering loops, conditionals, and functions.
+• Developed interactive projects like robots, games, dashboards, and AI-powered smart devices.
+• Designed and troubleshot embedded systems, gaining confidence in independent Arduino-based invention.
+Mode of learning: Online
+
+PROJECTS
+07/06/2026 – 07/07/2026
+
+Custom Web ChatBot
+Key Features
+• Developed a custom AI-powered web chatbot using Llama 2 as the foundational large language model to
+provide context-aware conversational responses.
+• Automated web data extraction by crawling websites through XML sitemaps, enabling efficient ingestion
+of relevant content.
+• Processed the extracted documents by splitting them into manageable text chunks and generating highquality vector embeddings for semantic understanding.
+• Built a semantic search pipeline by indexing the embedded vectors and storing them in Pinecone,
+enabling fast and accurate retrieval of relevant information for Retrieval-Augmented Generation (RAG).
+• Implemented a Retrieval-Augmented Generation (RAG) architecture that retrieves relevant document
+chunks from Pinecone and uses them to generate accurate, context-aware responses.
+• Integrated the solution into a user-friendly web interface, allowing users to ask natural language
+questions and receive intelligent answers based on the indexed knowledge base.
+
+03/03/2026 – 06/03/2026
+
+AI Agent for Auto Generating Book Summaries
+Built an LLM-powered AI agent that automatically analyzes books and generates structured summaries using
+NLP, transformer models, and Retrieval-Augmented Generation (RAG). Implemented document processing,
+semantic search, and context-aware generation pipelines to provide efficient knowledge extraction from large
+texts.
+
+Key Features:
+• Automated book content analysis and summarization.
+• Document ingestion and text preprocessing pipeline .
+• using n8n for automation workflow
+• Scalable architecture for processing long-form documents.
+Technologies Used:
+• Python
+• Large Language Models (LLMs)
+• LangChain
+• OpenAI API
+
+04/03/2026 – 10/04/2026
+
+Telegram ChatBot with OpenAi
+Key Features
+• Developed an intelligent Telegram chatbot using the Aiogram framework, leveraging its fully
+asynchronous architecture for efficient message handling and scalability.
+• Integrated the OpenAI API as the backend language model to generate context-aware, natural language
+responses for user interactions.
+• Configured and managed the Telegram bot through BotFather, including bot creation, token generation,
+and command setup.
+• Implemented asynchronous request handling to improve responsiveness and support multiple
+concurrent user conversations.
+• Designed a modular and maintainable codebase, making it easy to extend the chatbot with additional AIpowered features and integrations.
+
+04/04/2026 – 05/06/2026
+
+Ai Agent Video Caption Generator
+Designed an autonomous AI agent that manages the end-to-end video captioning workflow, including media
+processing, speech recognition, transcription refinement, and subtitle generation. Integrated AI models and
+automation tools to transform raw video content into accurate, searchable, and accessible captioned media.
+Key Features:
+• User-friendly video upload interface built with Streamlit.
+• Automatic extraction and processing of video audio streams.
+• AI-powered speech-to-text transcription using OpenAI Whisper.
+• Supports user-selected transcription languages through the UI.
+• Generates timestamped captions/subtitles automatically.
+• Uses FFmpeg to permanently embed (burn) generated captions into the video.
+• Automated end-to-end workflow from video upload to captioned video output.
+• Improves accessibility and content understanding for educational, media, and online video platforms.
+
+01/01/2025 – 03/12/2025
+
+Transformer Model (Based on “Attention Is All You Need Paper”)
+• Built a Transformer model from scratch based on Attention Is All You Need Paper, implementing all key
+components (embedding, positional encoding, attention mechanisms, feed-forward layers, residual
+connections).
+• Trained the model on the Opus Books dataset for Italian-to-English machine translation.
+• Gained hands-on expertise in Encoder-Decoder architectures and sequence-to-sequence learning.
+Link https://github.com/codewithkolawole
+
+01/05/2025 – 13/06/2025
+
+Stable Diffusion Model (Based on “Denoising Diffusion Probabilistic Models”)
+• Developed a full diffusion-based generative model from scratch for text-to-image and image- to-image
+synthesis with controllable noise scheduling.
+• Implemented U-Net, latent VAE, and Classifier-Free Guidance for precise, high-fidelity text-conditioned image
+generation.
+
+• Integrated CLIP to align text embeddings with image latents, ensuring semantically grounded and promptadherent outputs.
+• Designed and evaluated custom diffusion schedulers and guidance strategies, optimizing visual quality across
+generated samples.
+Link https://github.com/codewithkolawole
+
+RECOMMENDATIONS
+Engr. Folarin Olufemi Director
+Head of Department, IT Networking Unit,
+Center for systems and information services (CSIS), Landmark University, Omu-Aran.
+Email folarin.olufemi@lmu.edu.ng
+
+Phone (+234) 8038957185
+
+Mr. S.O Oladipo Director
+H
+﻿ ead of Department, IT Networking Unit,
+Director ICT Thomas Adewumi University, Oko. Kwara State. Nigeria.
+Email damilare.ogundele@tau.edu.ng
+
+Phone (+234) 8162957065
+
