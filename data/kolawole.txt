@@ -8,11 +8,6 @@ Thomas Adewumi University,
 Oko
 251103 Oko, Nigeria (Work)
 
- kolawoleolanrewaju248@gmail.
-com
-
- (+234) 8156437937
-
 www.tau.edu.ng
 
 ABOUT ME
@@ -35,8 +30,6 @@ Thomas Adewumi University, Oko , Kwara State. Nigeria. Oko, Nigeria
 Business or Sector Information and communication
 
 Department I.C.T
-
-Email kolawole.olanrewaju@tau.edu.ng
 
 Programmer I
 17/09/2021 – Current
@@ -239,8 +232,7 @@ Transformer Model (Based on “Attention Is All You Need Paper”)
 components (embedding, positional encoding, attention mechanisms, feed-forward layers, residual
 connections).
 • Trained the model on the Opus Books dataset for Italian-to-English machine translation.
-• Gained hands-on expertise in Encoder-Decoder architectures and sequence-to-sequence learning.
-Link https://github.com/codewithkolawole
+• Gained hands-on expertise in Encoder-Decoder architectures and sequence-to-sequence learning
 
 01/05/2025 – 13/06/2025
 
@@ -253,21 +245,6 @@ generation.
 • Integrated CLIP to align text embeddings with image latents, ensuring semantically grounded and promptadherent outputs.
 • Designed and evaluated custom diffusion schedulers and guidance strategies, optimizing visual quality across
 generated samples.
-Link https://github.com/codewithkolawole
 
-RECOMMENDATIONS
-Engr. Folarin Olufemi Director
-Head of Department, IT Networking Unit,
-Center for systems and information services (CSIS), Landmark University, Omu-Aran.
-Email folarin.olufemi@lmu.edu.ng
 
-Phone (+234) 8038957185
-
-Mr. S.O Oladipo Director
-H
-﻿ ead of Department, IT Networking Unit,
-Director ICT Thomas Adewumi University, Oko. Kwara State. Nigeria.
-Email damilare.ogundele@tau.edu.ng
-
-Phone (+234) 8162957065
 
